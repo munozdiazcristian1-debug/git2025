@@ -1,0 +1,96 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/eclipse,java
+# Editar en https://www.toptal.com/developers/gitignore?templates=eclipse,java
+
+### Eclipse ###
+.metadatos
+papelera/
+temporal/
+*.tmp
+*.bak
+*.swp
+*~.nib
+propiedades locales
+.ajustes/
+.ruta de carga
+.recomendadores
+
+# Constructores de herramientas externas
+.constructoresdeherramientasexternas/
+
+# "Configuraciones de lanzamiento de Eclipse" almacenadas localmente
+*.lanzamiento
+
+# Específico de PyDev (IDE de Python para Eclipse)
+*.pydevproyecto
+
+# Herramientas de desarrollo específicas de CDT (C/C++)
+.cproyecto
+
+# CDT-herramientas automáticas
+.herramientas automáticas
+
+# Procesador de anotaciones de Java (APT)
+.ruta de fábrica
+
+# Herramientas de desarrollo específicas de PDT (PHP)
+.ruta de construcción
+
+# complemento sbteclipse
+.objetivo
+
+# Complemento Tern
+proyecto .tern
+
+# Complemento TeXlipse
+.texlipse
+
+# STS (Conjunto de herramientas Spring)
+.frijoles de primavera
+
+# Recomendadores de código
+.recomendadores/
+
+# Procesamiento de anotaciones
+.apt_generado/
+.apt_prueba_generada/
+
+# Específico de Scala IDE (desarrollo de Scala y Java para Eclipse)
+.cache-principal
+.scala_dependencies
+.hoja de trabajo
+
+# Descomente esta línea si desea ignorar el archivo de descripción del proyecto.
+# Normalmente, este archivo se rastreará si contiene configuraciones de compilación/dependencia:
+#.proyecto
+
+### Parche de Eclipse ###
+# Herramientas de arranque de primavera
+.sts4-cache/
+
+### Java ###
+# Archivo de clase compilado
+*.clase
+
+# Archivo de registro
+*.registro
+
+# Archivos BlueJ
+*.ctxt
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp/
+
+# Archivos de paquete #
+*.frasco
+*.guerra
+*.nar
+*.oreja
+*.cremallera
+*.tar.gz
+*.rar
+
+# registros de fallos de la máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+pid de reproducción*
+
+# Fin de https://www.toptal.com/developers/gitignore/api/eclipse,java
